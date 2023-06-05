@@ -2,7 +2,12 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        yomogi: "Yomogi, cursive",
+        vt323: "VT323, monospace",
+      },
+    },
   },
   plugins: [],
 };
