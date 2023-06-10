@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         yomogi: "Yomogi, cursive",
         vt323: "VT323, monospace",
+        audowide: "Audowide, cursive",
       },
     },
   },
