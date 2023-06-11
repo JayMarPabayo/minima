@@ -7,8 +7,10 @@ const Login = () => {
         href="/"
         className="ml-3 mt-3 text-[#5b5d4c] font-yomogi tracking-widest font-bold"
       >
-        <span className="text-black text-lg">m</span>inima
-        <span className="text-black text-lg">.</span>
+        <span className="text-black font-extrabold text-2xl">m</span>inima
+        <span className="text-black font-extrabold text-2xl animate-pulse">
+          .
+        </span>
       </a>
       <main className="border border-stone-500 border-opacity-60 w-[27rem] mx-auto mt-20 py-20">
         <h1 className="text-6xl tracking-widest font-bold text-center">

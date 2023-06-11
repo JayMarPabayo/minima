@@ -5,10 +5,12 @@ const Signup = () => {
     <div className="absolute inset-0 h-full w-full">
       <a
         href="/"
-        className="ml-3 mt-3 text-[#5b5d4c] font-yomogi tracking-widest font-bold text-sm"
+        className="ml-3 mt-3 text-[#5b5d4c] font-yomogi tracking-widest font-bold"
       >
-        <span className="text-black text-2xl ">m</span>inima
-        <span className="text-black text-2xl animate-pulse ">.</span>
+        <span className="text-black font-extrabold text-2xl">m</span>inima
+        <span className="text-black font-extrabold text-2xl animate-pulse">
+          .
+        </span>
       </a>
       <main className="border border-stone-500 border-opacity-60 w-[27rem] mx-auto mt-12 pt-20 pb-16">
         <h1 className="text-6xl tracking-widest font-bold text-center">
